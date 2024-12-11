@@ -27,5 +27,6 @@ public class ToDo {
     public Boolean getCompleted() {
         return completed;
     }
+    // Bien Modifier pour tester commit
 
 }
